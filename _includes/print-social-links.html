@@ -2,6 +2,11 @@
 {% if site.resume_print_social_links %}
 <ul>
 
+    <!-- Google Scholar link -->
+    {% if site.resume_social_links.resume_gs_url %}
+    <li><strong>Google Scholar</strong>: {{ site.resume_social_links.resume_gs_url }}</li>
+    {% endif %}
+
   <!-- GitHub link -->
   {% if site.resume_social_links.resume_github_url %}
   <li><strong>Github</strong>: {{ site.resume_social_links.resume_github_url }}</li>

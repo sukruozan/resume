@@ -4,6 +4,23 @@
   duration: 2017 &mdash; Present
   summary: AdresGezgini Inc.'s core business areas are digital marketing solutions and web-based software development projects. The company was accredited as an R&D center by the Ministry of Industry and Technology of the Republic of Turkey in 2017. Our company's sector remains one of the brightest sectors of the future that is taking traditional promotional campaigns and business management solutions, with a steady growth of over 20% every year in Turkey. Our company is in a precious position with its certified professional staff, accumulated knowledge, and high level of customer satisfaction. AdresGezgini follows the latest technological trends in internet technologies with its experience and its R&D projects. By being constantly up-to-date on its workflow processes using the latest technology, AdresGezgini offers consulting and project-based services on new internet technologies to thousands of businesses in its portfolio. 
 
+- company: <a href="https://adresgezgini.com" target="_blank">Teaching Experience</a> 
+  position: 
+  duration: 2017 &mdash; 2021
+  summary: 
+          
+          <html>
+          <body>
+          <p> 
+              <a href="https://machinelearningcourse.github.io" target="_blank">Machine Learning</a>  - Machine Learning Course @ AdresGezgini Inc., İzmir, Turkey.<br> 
+              <a href="https://comp4360.github.io" target="_blank">COMP4360</a>  - Image Processing @ Yaşar University.<br> 
+              <a href="https://mee404.github.io" target="_blank">MEE404</a>  - Machine Vision in Mechatronics @ İzmir Katip Çelebi University.<br> 
+              CSE3113 - Introduction to Image Processing @ Manisa Celal Bayar University.<br> 
+          </p>
+          </body>
+          </html>
+
+
 - company: <a href="https://adresgezgini.com" target="_blank">AdresGezgini Inc.</a> 
   position: Vice President
   duration:  2016 &mdash; Present
