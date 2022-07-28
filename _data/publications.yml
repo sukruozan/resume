@@ -1,0 +1,56 @@
+#publications
+
+- type: Journal Article
+  title: A novel semi-supervised framework for call center agent malpractice detection via neural feature learning
+  publisher: Expert Systems with Applications
+  year: 2022
+  link: https://doi.org/10.1016/j.eswa.2022.118173
+  #summary: This work presents a practical solution to the problem of call center agent malpractice. A semi-supervised framework comprising nonlinear power transformation, neural feature learning, and clustering is outlined. We put these building blocks together and tuned the parameters to obtain the best performance. The data used in the experiments is obtained from our in-house call center. It is made up of recorded agent–customer conversations, which have been annotated using a convolutional neural network (CNN) based segmenter. The methods provided a means of tuning the neural network parameters to achieve a desirable result. Using our proposed framework, we show that it is possible to significantly reduce the malpractice classification error of k-means and agglomerative clustering models, which would serve the same purpose. By presenting the amount of silence per call as a key performance indicator, we show that the proposed system has increased the efficiency of quality control managers, thus enhancing agents’ performance at our call center since deployment.
+
+- type: Journal Article
+  title: Performance Trade-Off for Bert Based Multi-Domain Multilingual Chatbot Architectures
+  publisher: Journal of Artificial Intelligence and Data Science
+  year: 2021
+  link: https://dergipark.org.tr/en/pub/jaida/issue/68350/1060221
+
+- type: Journal Article
+  title: Deep Feature Generation for Author Identification
+  publisher: Celal Bayar University Journal of Science
+  year: 2021
+  link: https://doi.org/10.18466/cbayarfbe.846016
+
+- type: Journal Article
+  title: Case studies on using natural language processing techniques in customer relationship manage- ment software
+  publisher: Journal of Intelligent Information Systems
+  year: 2020
+  link: https://doi.org/10.1007/s10844-020-00619-4
+
+- type: Journal Article
+  title: Reconstruction of geometrical and reflection properties of surfaces by using structured light
+  publisher: Turkish Journal of Electrical Engineering and Computer Sciences
+  year: 2018
+  link: https://doi.org/10.3906/elk-1711-243
+
+- type: Ph.D. Thesis
+  title: Joint reconstruction of surface geometry and reflection properties by using image based methods
+  publisher: Izmir Institute of Technology
+  year: 2015
+  link: https://openaccess.iyte.edu.tr/handle/11147/4341
+
+- type: Journal Article
+  title: Calibration of double stripe 3D laser scanner systems using planarity and orthog- onality constraints
+  publisher: Digital Signal Processing
+  year: 2014
+  link: https://doi.org/10.1016/j.dsp.2013.08.006  
+
+- type: Journal Article
+  title: Enhancing stereo matching performance by colour normalisation and specularity removal
+  publisher: IET Electronics Letters
+  year: 2011
+  link: https://doi.org/10.1049/el.2011.1289  
+
+- type: M.Sc. Thesis
+  title: A case study on logging visual activities&#x3a; Chess game
+  publisher: Izmir Institute of Technology
+  year: 2005
+  link: https://openaccess.iyte.edu.tr/handle/11147/3304

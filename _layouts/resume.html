@@ -96,9 +96,6 @@
       {% endif %}
 
 
-
-
-
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
       <section class="content-section">
@@ -118,6 +115,26 @@
       </section>
       <!-- end Projects -->
       {% endif %}
+
+      {% if site.resume_section_publications %}
+      <!-- begin Publications -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Publications</h2>
+        </header>
+
+        {% for publication in site.data.publications %}
+        <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+          <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
+          <h5 class="resume-item-title" itemprop="description">{% if publication.link %} <a href="{{ publication.link }}" itemprop="url" target="_blank">{{ publication.title }}</a>{% else %}{{ publication.title }}{% endif %}</h5>
+          <h5 class="resume-item-details" itemprop="description">{{ publication.type }} &bull;  {{ publication.publisher }} &bull; {{ publication.year }}</h5>
+          <p class="resume-item-copy">{{ publication.summary }}</p>
+        </div>
+        {% endfor %}
+      </section>
+      <!-- end Publications -->
+      {% endif %}
+
 
       {% if site.resume_section_skills %}
       <!-- begin Skills -->
