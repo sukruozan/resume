@@ -1,15 +1,57 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
+- project: <a href="https://calltech.app" target="_blank">CALLTECH.APP - PHASE 1</a> 
+  role: Founding Acquisition & Project Management
+  duration: 2018 &mdash; 2020
+  # url: https://calltech.app
+  description:  
+          <html>
+          <body>
+          <p> 
+          <b> Title &mdash; DEVELOPMENT OF A SYSTEM TO DETECT FAKE CALLS BY CLASSIFYING RECORDINGS OF CALLCENTER TELEPHONE CALLS THROUGH MACHINE LEARNING.</b> <br> 
+          This is a TEYDEB 1507 project. I found the project idea when we faced a case of collective fraud in our call center. The customer representatives were making fake calls to some phones and filling most of their call time quota. Since most of these calls rely on non-conversational sounds, I reduced the problem down to a machine learning problem and nearly completely solved the corresponding fraud problem in our call center. Excluding myself, my team consists of a machine learning engineer with a Ph.D., a web programmer with an M.Sc. degree, two quality managers, and one test/reporting officer. The system is running as a 7/24 service that detects and reports anomalies to the managers, who can mark these anomalies as either a fraud or normal call. The system can also be adapted to any call center software without loss of generality once the database structure is supplied. We have published four conference articles and a journal article in “Expert Systems with Applications Journal”. We finalized the project on 31.01.2020.
+          </p>
+          </body>
+          </html>
 
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: <a href="https://calltech.app" target="_blank">CALLTECH.APP - PHASE 2</a> 
+  role: Founding Acquisition & Project Management
+  duration: 2021 &mdash; 2022
+  # url: https://calltech.app
+  description:  
+          <html>
+          <body>
+          <p> 
+          <b> Title &mdash; DEVELOPMENT OF THE SYSTEM THAT PROVIDES THE AUTOMATIC DETECTION OF NEGATIVE CALLCENTER CALLS WITH DEEP ARTIFICIAL NEURAL NETWORKS BASED CLASSIFICATION ALGORITHMS.</b> <br> 
+          This is a TEYDEB 1501 project. I found the project idea after I further examined the call center calls more carefully. It is essential to take action as early as possible in terms of customer satisfaction for customer satisfaction. Once we can detect any negative emotion in a call between a customer and a customer representative, it most probably reflects a problem faced by a customer. And it is not easy for managers to be aware of these situations, especially during the COVID-19 related work from home regulations. Hence the project aims to detect emotional anomalies in customer calls and report them to the managers as soon as possible. Excluding myself, my team consists of a junior machine learning engineer, a web programmer, two quality managers, a team manager, and one test/reporting officer. The pro- posed project will be an add-on to the calltech.app service explained in the previous project title. We finalized the project on 31.07.2022.
+          </p>
+          </body>
+          </html>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: <a href="https://botchat.app" target="_blank">BOTCHAT.APP </a> 
+  role: Founding Acquisition & Project Management
+  duration: 2020 &mdash; 2021
+  # url: https://calltech.app
+  description:  
+          <html>
+          <body>
+          <p> 
+          <b> Title &mdash; GENERAL PURPOSE CHATBOT APPLICATION THAT CAN PRODUCE MEANINGFUL DIALOGUE WITH MACHINE LEARNING.</b> <br> 
+          This is a TEYDEB 1501 project. In this project, I aimed to develop an alternative product for the paid third-party customer engagement software we were using in our company. The software we developed can get customer representatives to engage with website visitors using the chat interface. The system can also lead website visitors to find possible answers to their questions using pre-defined multiple-choice questions. The very importance of this project is that it also includes a chatbot with artificial intelligence. Using real chat scripts populated for the last 6+ years, we trained a BERT model to automatically give the most ap- propriate answers to most of the website visitors’ questions. The system is running 7/24 on our websites, and in the absence of a customer representative, the chatbot takes over the job and answers basic questions of website visitors. Without the ai chatbot part, the system can directly be used on any website. Training of the chatbot needs special training for different organizations. Excluding myself, my team consists of a machine learning engineer, a web programmer, a web designer, and 11 employees re- sponsible for data labeling, testing, and reporting tasks. We published one journal and one conference paper. The project ended on 30.06.2021.          
+          </p>
+          </body>
+          </html>
+
+- project: <a href="https://linguo.app" target="_blank">LINGUO.APP </a> 
+  role: Founding Acquisition & Project Management
+  duration: 2020 &mdash; 2021
+  # url: https://calltech.app
+  description:  
+          <html>
+          <body>
+          <p> 
+          <b> Title &mdash; DEVELOPMENT OF THE SYSTEM THAT CAN MAKE SPEECH TO TEXT TRANSLATION FOR TURKISH LANGUAGE WITH STATE OF THE ART DEEP LEARNING ARCHITECTURES AND WORKS WITH SOFTWARE AS A SERVICE (SAAS) MODEL.</b> <br> 
+          This is a recent TEYDEB 1501 project. I have been planning to build a speech2text tool for the Turkish language since 2017. For this reason, in 2018, we published linguo.app website, which we use to either label short audio recordings or voice short sentences. Now we have nearly100K labeled data ready to be used to train a speech2text algorithm for the Turkish language. We will primarily use it to convert our call center conversations to text. Still, the system can also be used as an API service for people seeking an alternative tool for Turkish speech2text conversion. Excluding myself, my team consists of a machine learning engineer, a web programmer, a web designer, three engineers for testing and reporting, and ten part-time personnel for data labeling. The project will be finalized on 31.12.2022.    
+          </p>
+          </body>
+          </html>
