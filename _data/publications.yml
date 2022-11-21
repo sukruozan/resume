@@ -1,6 +1,12 @@
 #publications
 
 - type: Journal Article
+  title: Training Data Generation for U-Net Based MRI Image Segmentation using Level-Set Methods
+  publisher: Journal of Mathematical Sciences and Modelling
+  year: 2023
+  link: https://doi.org/10.33187/jmsm.1106012
+
+- type: Journal Article
   title: A novel semi-supervised framework for call center agent malpractice detection via neural feature learning
   publisher: Expert Systems with Applications
   year: 2022
