@@ -1,4 +1,8 @@
 #publications
+- type: Journal Article
+  title: Detection of Negative Calls in Call Centers with Convolutional Neural Networks
+  publisher: Gazi Üniversitesi Bilişim Teknolojileri Dergisi
+  link: https://doi.org/10.17671/gazibtd.1156330
 
 - type: Journal Article
   title: Training Data Generation for U-Net Based MRI Image Segmentation using Level-Set Methods
