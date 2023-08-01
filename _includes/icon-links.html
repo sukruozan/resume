@@ -2,6 +2,11 @@
 {% if site.resume_social_links %}
 <ul class="icon-links">
 
+    <!-- JSON Resume link -->
+    {% if site.resume_social_links.resume_jsonr_url %}
+    <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_jsonr_url }}"  target="_blank" class="icon-link" itemprop="sameAs">{% include icons/icon-website.html %}</a></li>
+    {% endif %}
+
     <!-- Google Scholar link -->
     {% if site.resume_social_links.resume_gs_url %}
     <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_gs_url }}"  target="_blank" class="icon-link" itemprop="sameAs">{% include icons/icon-website.html %}</a></li>

@@ -46,6 +46,7 @@ resume_section_associations:    false
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
+  resume_jsonr_url:             "https://registry.jsonresume.org/sukruozan"
   resume_gs_url:                "https://scholar.google.com/citations?user=M3vMfZgAAAAJ&hl=en"
   resume_github_url:            "https://github.com/sukruozan"
   resume_twitter_url:           "http://twitter.com/sukruozan"
