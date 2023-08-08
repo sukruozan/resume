@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Şükrü Ozan, Ph.D."
-resume_title:                   "R&D Center Director - VP @ AdresGezgini Inc."
+resume_title:                   "Deep Learning/Machine Learning Engineer @ digiMOST GmbH - VP @ AdresGezgini Inc."
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "sukruozan@gmail.com"
