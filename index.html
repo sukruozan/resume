@@ -1,3 +1,18 @@
 ---
 layout: resume
 ---
+<script type="text/javascript">
+    document.addEventListener("DOMContentLoaded", function() {
+        // Themes listed in the YAML file
+        var themes = {{ site.json_resume_themes | jsonify }};
+
+        // Randomly select a theme
+        var selectedTheme = themes[Math.floor(Math.random() * themes.length)];
+
+        // Construct the URL with the selected theme
+        var url = "https://registry.jsonresume.org/sukruozan?theme=" + selectedTheme;
+
+        // Redirect to the URL
+        window.location.href = url;
+    });
+</script>
