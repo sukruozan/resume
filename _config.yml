@@ -9,7 +9,6 @@ json_resume_themes:
   - elegant
   - corporate
   - modern
-  - other_theme_names
 
 # Build settings
 markdown: kramdown
