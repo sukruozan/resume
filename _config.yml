@@ -2,6 +2,15 @@
 title: "Şükrü Ozan, Ph.D."
 description: "Resume page of Şükrü Ozan"
 
+# List of themes for JSON Resume
+json_resume_themes:
+  - kendall
+  - flat
+  - elegant
+  - corporate
+  - modern
+  - other_theme_names
+
 # Build settings
 markdown: kramdown
 sass:
